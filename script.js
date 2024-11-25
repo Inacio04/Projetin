@@ -4,7 +4,7 @@ function updateDiv() {
   
     // Cria um novo elemento script para carregar o conteúdo da página 2
     const script = document.createElement('script');
-    script.src = 'output.html'; // Substitua por seu caminho real
+    script.src = 'atualizado.html'; // Substitua por seu caminho real
   
     // Adiciona o script ao corpo da página
     document.body.appendChild(script);
